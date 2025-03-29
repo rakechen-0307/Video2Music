@@ -1,6 +1,6 @@
 from video2music import Video2music
 
-input_video = "./ysSxxIqKNN0.mp4"
+input_video = "../samples/videos/ysSxxIqKNN0.mp4"
 
 input_primer = "C Am F G"
 input_key = "C major"
